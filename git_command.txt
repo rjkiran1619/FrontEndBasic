@@ -1,0 +1,20 @@
+git init - Creates a new local repository in the current directory.
+
+git clone - Copies an existing remote repository to local machine.
+
+git status - shows the state of your working directory and staging area.
+
+git add - Adds changes in your working directory to the staging area, which isa temporary area where you can prepare your next commit.
+
+git comit - Records the changes in the staging area as a anew snapshot in the local repository, along with a message describing the changes.
+
+git push - Uploads the local changes to the remote repository usually on a platform like github or gitlab.
+
+git pull - Download the latest commits from a remote repository and merges them with your local branch.
+
+git branch - List creates, renames or deletes branches in your local repository. A branch is a pointer to a specific commit.
+
+git checkout - Switch your working directory yo a different branch or commit,
+discarding any uncommitted changes.
+
+------------------------------------------------------------
